@@ -16,3 +16,24 @@
 .icon-row__icon span {
   margin-top: 15px;
 }
+
+.icon-row2 {
+  display: flex;
+  margin-top: 20px;
+}
+
+.icon-row2__icon {
+  margin-left: 10px;
+  margin-right: 130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon-row2__icon i {
+  font-size: 35px;
+}
+
+.icon-row2__icon span {
+  margin-top: 15px;
+}

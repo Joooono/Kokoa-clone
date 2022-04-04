@@ -39,6 +39,18 @@
   color: white;
 }
 
+.more-suggestions__facebook {
+  background-color: white;
+  width: 60px;
+  height: 60px;
+}
+
+.more-suggestions__instagram {
+  background-color: white;
+  width: 80px;
+  height: 80px;
+}
+
 .user-component__column i {
   color: rgba(24, 24, 24, 0.8);
 }
